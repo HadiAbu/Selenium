@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29" started-at="2015-10-21T10:57:23Z" finished-at="2015-10-21T10:57:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29" started-at="2015-10-21T10:57:23Z" finished-at="2015-10-21T10:57:23Z">
+      <class name="tests.NewTest">
+        <test-method status="PASS" signature="f1()[pri:0, instance:tests.NewTest@7fd91c09]" name="f1" duration-ms="10" started-at="2015-10-21T13:57:23Z" finished-at="2015-10-21T13:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="f2()[pri:0, instance:tests.NewTest@7fd91c09]" name="f2" duration-ms="0" started-at="2015-10-21T13:57:23Z" finished-at="2015-10-21T13:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="f3()[pri:0, instance:tests.NewTest@7fd91c09]" name="f3" duration-ms="0" started-at="2015-10-21T13:57:23Z" finished-at="2015-10-21T13:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+        <test-method status="PASS" signature="f4()[pri:0, instance:tests.NewTest@7fd91c09]" name="f4" duration-ms="0" started-at="2015-10-21T13:57:23Z" finished-at="2015-10-21T13:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
+        <test-method status="PASS" signature="f5()[pri:0, instance:tests.NewTest@7fd91c09]" name="f5" duration-ms="0" started-at="2015-10-21T13:57:23Z" finished-at="2015-10-21T13:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f5 -->
+      </class> <!-- tests.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
