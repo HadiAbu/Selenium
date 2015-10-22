@@ -1,11 +1,15 @@
 package tests;
 
-import org.testng.annotations.Test;
+import org.junit.Rule;
+import org.junit.rules.ErrorCollector;
 import org.testng.AssertJUnit;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class NewTest {
+	
+	@Rule
+	public ErrorCollector errCollect = new ErrorCollector();
+	
   @Test
   public void f1() {
 	  System.out.println("First test!");
