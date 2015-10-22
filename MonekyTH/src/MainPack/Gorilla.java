@@ -1,3 +1,4 @@
+package MainPack;
 public class Gorilla {
 	public int getNum() {
 		return num;

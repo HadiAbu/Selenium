@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="27" started-at="2015-10-21T12:45:38Z" finished-at="2015-10-21T12:45:38Z">
+  <suite name="Default suite" duration-ms="22" started-at="2015-10-21T14:14:36Z" finished-at="2015-10-21T14:14:36Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="27" started-at="2015-10-21T12:45:38Z" finished-at="2015-10-21T12:45:38Z">
+    <test name="Default test" duration-ms="22" started-at="2015-10-21T14:14:36Z" finished-at="2015-10-21T14:14:36Z">
       <class name="tests.NewTest">
-        <test-method status="PASS" signature="f1()[pri:0, instance:tests.NewTest@715be530]" name="f1" duration-ms="11" started-at="2015-10-21T15:45:38Z" finished-at="2015-10-21T15:45:38Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- f1 -->
-        <test-method status="PASS" signature="f2()[pri:0, instance:tests.NewTest@715be530]" name="f2" duration-ms="0" started-at="2015-10-21T15:45:38Z" finished-at="2015-10-21T15:45:38Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- f2 -->
-        <test-method status="PASS" signature="f3()[pri:0, instance:tests.NewTest@715be530]" name="f3" duration-ms="0" started-at="2015-10-21T15:45:38Z" finished-at="2015-10-21T15:45:38Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- f3 -->
-        <test-method status="PASS" signature="f4()[pri:0, instance:tests.NewTest@715be530]" name="f4" duration-ms="0" started-at="2015-10-21T15:45:38Z" finished-at="2015-10-21T15:45:38Z">
+        <test-method status="PASS" signature="f4()[pri:0, instance:tests.NewTest@15f2cff0]" name="f4" duration-ms="10" started-at="2015-10-21T17:14:36Z" finished-at="2015-10-21T17:14:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f4 -->

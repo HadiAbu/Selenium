@@ -1,3 +1,4 @@
+package MainPack;
 public class Monster {
 
 	public static int check2Plus2() {
