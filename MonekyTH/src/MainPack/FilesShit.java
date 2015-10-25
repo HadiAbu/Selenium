@@ -46,7 +46,7 @@ public class FilesShit
 	public void CloseFiles() throws IOException
 	{
 //		fileReader.close();
-//		fis.close();
+		fis.close();
 		fileWriter.close();
 		fos.close();
 	}
